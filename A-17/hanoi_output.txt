@@ -1,0 +1,56 @@
+   1     2     3
+   |     |     |
+   █     |     |  
+  ███    |     |  
+ █████   |     |  
+
+Bitte geben sie den Start ein: Bitte geben sie das Ziel ein: 
+   1     2     3
+   |     |     |
+   |     |     |  
+  ███    |     |  
+ █████   |     █  
+
+Bitte geben sie den Start ein: Bitte geben sie das Ziel ein: 
+   1     2     3
+   |     |     |
+   |     |     |  
+   |     |     |  
+ █████  ███    █  
+
+Bitte geben sie den Start ein: Bitte geben sie das Ziel ein: 
+   1     2     3
+   |     |     |
+   |     |     |  
+   |     █     |  
+ █████  ███    |  
+
+Bitte geben sie den Start ein: Bitte geben sie das Ziel ein: 
+   1     2     3
+   |     |     |
+   |     |     |  
+   |     █     |  
+   |    ███  █████
+
+Bitte geben sie den Start ein: Bitte geben sie das Ziel ein: 
+   1     2     3
+   |     |     |
+   |     |     |  
+   |     |     |  
+   █    ███  █████
+
+Bitte geben sie den Start ein: Bitte geben sie das Ziel ein: 
+   1     2     3
+   |     |     |
+   |     |     |  
+   |     |    ███ 
+   █     |   █████
+
+Bitte geben sie den Start ein: Bitte geben sie das Ziel ein: 
+   1     2     3
+   |     |     |
+   |     |     █  
+   |     |    ███ 
+   |     |   █████
+
+Sie haben gewonnen!
