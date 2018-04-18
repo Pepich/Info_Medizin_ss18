@@ -4,49 +4,63 @@
   ███    |     |  
  █████   |     |  
 
-Bitte geben sie den Start ein: Bitte geben sie das Ziel ein: 
+Bitte geben sie den Start ein: 1
+Bitte geben sie das Ziel ein: 3
+
    1     2     3
    |     |     |
    |     |     |  
   ███    |     |  
  █████   |     █  
 
-Bitte geben sie den Start ein: Bitte geben sie das Ziel ein: 
+Bitte geben sie den Start ein: 1
+Bitte geben sie das Ziel ein: 2
+
    1     2     3
    |     |     |
    |     |     |  
    |     |     |  
  █████  ███    █  
 
-Bitte geben sie den Start ein: Bitte geben sie das Ziel ein: 
+Bitte geben sie den Start ein: 3
+Bitte geben sie das Ziel ein: 2
+
    1     2     3
    |     |     |
    |     |     |  
    |     █     |  
  █████  ███    |  
 
-Bitte geben sie den Start ein: Bitte geben sie das Ziel ein: 
+Bitte geben sie den Start ein: 1
+Bitte geben sie das Ziel ein: 3
+
    1     2     3
    |     |     |
    |     |     |  
    |     █     |  
    |    ███  █████
 
-Bitte geben sie den Start ein: Bitte geben sie das Ziel ein: 
+Bitte geben sie den Start ein: 2
+Bitte geben sie das Ziel ein: 1
+
    1     2     3
    |     |     |
    |     |     |  
    |     |     |  
    █    ███  █████
 
-Bitte geben sie den Start ein: Bitte geben sie das Ziel ein: 
+Bitte geben sie den Start ein: 2
+Bitte geben sie das Ziel ein: 3
+
    1     2     3
    |     |     |
    |     |     |  
    |     |    ███ 
    █     |   █████
 
-Bitte geben sie den Start ein: Bitte geben sie das Ziel ein: 
+Bitte geben sie den Start ein: 1
+Bitte geben sie das Ziel ein: 3
+
    1     2     3
    |     |     |
    |     |     █  
