@@ -18,9 +18,9 @@ int main(void)
     // Variablen zum Zwischenspeichern der Benutzereingaben
     int start = 0;
     int ziel = 0;
-    // Variable zum leeren des Eingabepuffers
+    // Variable zum Leeren des Eingabepuffers
     char c;
-    // Rueckgabevariablen der Funktionen pruefe und zeichne
+    // Rueckgabevariablen der Funktionen lege und pruefe
     int fehler = 0;
     int geloest = 0;
 
